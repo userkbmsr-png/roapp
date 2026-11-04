@@ -1,0 +1,22 @@
+{
+  "general": {"warn": "da", "depanare": "nu"},
+  "combo": {
+    "init": "Primar|ing. Ioan Bohancanu;Viceprimar|Aurelian Bican;Secretar general|jr. Ionela Vetes;Consilieri PSD|Dancau Dan;Consilieri UDMR|Erdelyi Monika",
+    "compartiment": "Secretar general|Vetes Ionela-Elena;Aparat de specialitate al primarului|Kiss Laura;Compartiment contabilitate, venituri si urmarire, incasare taxe si impozite|Sofran Nicolae;Compartiment agricol, evidenta exploatatii agricole|Pirlageanu Andreea;Compartiment alocatii si servicii sociale|Talpos Almina;Compartiment administrativ|Flori Corina;Compartiment tehnic|Taran Elena;Consilier al primarului|Lavrenski Slobodan;Referent specialitate|Giuroescu Sorin-Manuel",
+    "raportor": "Secretar general|Vetes Ionela-Elena;Aparat de specialitate al primarului|Kiss Laura;Compartiment contabilitate, venituri si urmarire, incasare taxe si impozite|Sofran Nicolae;Compartiment agricol, evidenta exploatatii agricole|Pirlageanu Andreea;Compartiment alocatii si servicii sociale|Talpos Almina;Compartiment administrativ|Flori Corina;Compartiment tehnic|Taran Elena;Consilier al primarului|Lavrenski Slobodan;Referent specialitate|Giuroescu Sorin-Manuel",
+    "comisie": "Comisia de activitati si prognoze financiare, economie, buget, impozite si taxe, juridica si de disciplina, administrarea domeniului public si privat, realizarea lucrarilor publice|presedinte Dancau Dan-Dumitru;Comisia pentru administratia publica locala, servicii publice, relatii cu publicul, gospodarirea localitatii, probleme ale minoritatilor, apararea ordinii publice, respectarea drepturilor si libertatilor cetatenilor, relatii internationale|presedinte Terlai Pavel-Daniel;Comisia pentru invatamant, activitati stiintifice, activitati social-culturale, sportive si de agrement, munca, tineret, relatii cu cultele, sanatate si familie, protectie sociala si protectia copilului|presedinte Bruder Timea-Terezia;Comisia de organizare si dezvoltare urbanistica, amenajarea teritoriului si urbanism, protectia mediului inconjurator, agricultura si turism|presedinte Erdelyi Monica"
+  },
+  "text": {"loc": "Beba Veche", "primar": "ing. Ioan Bohancanu", "secretar": "jr. Ionela Vetes"},
+  "array": {
+    "consilieri": "Bican Aurelian;Bruder Timea;Ciobanu Liviu;Berbecaru Alin;Dancau Dan-Dumitru;Terlai Daniel;Erdelyi Monika",
+    "email": "aurelianbican@yahoo.com;brudertimea@yahoo.com;roxanabartha5@gmail.com;alinberbecaru8@gmail.com;danut.dancau@yahoo.com;terlaidaniel@icloud.com;erdelyi_monika@yahoo.com",
+    "wordpress": "bRWb8w5A@gmail.com", "google": "primariabebaveche@gmail.com",
+    "emol": "https://primariabebaveche.ro/monitorul-oficial-local/", "online": "local", "lastdisp": "1", "lasthot": "20"
+  },
+  "comisii": {
+    "Comisia de activitati si prognoze financiare, economie, buget, impozite si taxe, juridica si de disciplina, administrarea domeniului public si privat, realizarea lucrarilor publice": ["Bican Aurelian", "Dancau Dan-Dumitru", "Terlai Daniel"],
+    "Comisia pentru administratia publica locala, servicii publice, relatii cu publicul, gospodarirea localitatii, probleme ale minoritatilor, apararea ordinii publice, respectarea drepturilor si libertatilor cetatenilor, relatii internationale": ["Berbecaru Alin", "Dancau Dan-Dumitru", "Terlai Daniel"],
+    "Comisia pentru invatamant, activitati stiintifice, activitati social-culturale, sportive si de agrement, munca, tineret, relatii cu cultele, sanatate si familie, protectie sociala si protectia copilului": ["Bruder Timea", "Erdelyi Monika", "Bican Aurelian"],
+    "Comisia de organizare si dezvoltare urbanistica, amenajarea teritoriului si urbanism, protectia mediului inconjurator, agricultura si turism": ["Erdelyi Monika", "Bruder Timea", "Berbecaru Alin"]
+  }
+}

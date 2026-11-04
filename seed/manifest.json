@@ -1,0 +1,103 @@
+{
+  "source_archive": "v157.zip",
+  "source_archive_sha256": "25946ad369e0175ff7652678dcf351f8da21cf4ec67b20309dd380e6d697460a",
+  "archive_entries": 32,
+  "dataset_counts": {
+    "roDisp": {
+      "records": 189,
+      "fields_per_record": 11
+    },
+    "roHot": {
+      "records": 362,
+      "fields_per_record": 28
+    }
+  },
+  "docx_templates": 14,
+  "extracted_files": [
+    {
+      "path": "seed/v157/dispozitii.txt",
+      "sha256": "dcd86618f72d51c221e6ad4fc2e277ce2aa518b321db85c6aa4a1b099876dfd8",
+      "bytes": 599344
+    },
+    {
+      "path": "seed/v157/hotarari.txt",
+      "sha256": "ce360811446749063605e411b69c0b8a8ee0dfe4c908fee5aa85035b4a0ac676",
+      "bytes": 1418051
+    },
+    {
+      "path": "seed/settings.json",
+      "sha256": "1faef6e0365710dbdc30e705bf3cbfabc4b3e3ac15b0bb360715dd06b91d6ab0",
+      "bytes": 3707
+    },
+    {
+      "path": "templates/adresa_hot.docx",
+      "sha256": "4c857f8ac5aadc13a516444e62eed5342cfc7fb8ae97a3ab6ed4bf44b87ad390",
+      "bytes": 28607
+    },
+    {
+      "path": "templates/anunt_hot.docx",
+      "sha256": "233b28c4a6f1ed109fe02258011b11c24ba720f7812d7346078828cd28cf32dc",
+      "bytes": 27439
+    },
+    {
+      "path": "templates/conv.docx",
+      "sha256": "721c2c5913bc99b4b181b2118eb9617d3daccb4330cb11b3cf2304d6a2d39b2d",
+      "bytes": 99282
+    },
+    {
+      "path": "templates/dispoAdr.docx",
+      "sha256": "8a543496c36afabf3ee4d443e6692ac3f29f69b6cb05e2576b977d3ce5d2695e",
+      "bytes": 26548
+    },
+    {
+      "path": "templates/dispoI.docx",
+      "sha256": "70910ef03e560409514737aab18876ae20d8a781100e026a34c1ec8446162bcb",
+      "bytes": 92843
+    },
+    {
+      "path": "templates/dispoI_pr.docx",
+      "sha256": "84391542e859fb00ba857e103f1194b1ddbc99c17a3b365b7dd9f029e621f9c4",
+      "bytes": 84012
+    },
+    {
+      "path": "templates/dispoN.docx",
+      "sha256": "8e3631c0811bb66723d641952df350937cb02909585d9efd64f319591412ad54",
+      "bytes": 92999
+    },
+    {
+      "path": "templates/dispoN_pr.docx",
+      "sha256": "9987537d8b14f4e134a4766c6373ef7247661bcc3b8f5f05985d51a2da4e6398",
+      "bytes": 83469
+    },
+    {
+      "path": "templates/dispoRef.docx",
+      "sha256": "1d546c6a9d78d47f2e3b6d8a16081c29b9f99f30de45e20b4b60e4792436ae80",
+      "bytes": 27738
+    },
+    {
+      "path": "templates/hotI.docx",
+      "sha256": "a3214cf46fc791bcc804f0b7d5c9ebb903e3be19c4110b5ab64b0afc4008edf1",
+      "bytes": 91041
+    },
+    {
+      "path": "templates/hotI_pr.docx",
+      "sha256": "ac6de4b5ac485975dc6429c6092a60e50c4e0e6438f7757061c1754183218006",
+      "bytes": 87590
+    },
+    {
+      "path": "templates/hotN.docx",
+      "sha256": "3bed09b4e514b28a69b71ebe1f705e1504a4137cb904c7e4ae3c9e13899fe94e",
+      "bytes": 90619
+    },
+    {
+      "path": "templates/hotN_pr.docx",
+      "sha256": "27166b9f3d1aaa1a0e70fbc47584369eac2a4edaec5da40fb0a1df4a9f4fce87",
+      "bytes": 87878
+    },
+    {
+      "path": "templates/hotRef.docx",
+      "sha256": "ef3c132ddeeadc9bf46163824f16b6275ce303a6cc0894246e6561aea2c62362",
+      "bytes": 30404
+    }
+  ]
+}

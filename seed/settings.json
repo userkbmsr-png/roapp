@@ -1,0 +1,123 @@
+{
+  "institution": {
+    "name": "Comuna Beba Veche",
+    "county": "Timi?",
+    "location": "Beba Veche",
+    "mayor": "ing. Ioan Bohancanu",
+    "secretary": "jr. Ionela Vetes",
+    "monitorUrl": "https://primariabebaveche.ro/monitorul-oficial-local/"
+  },
+  "initiators": [
+    {
+      "label": "Primar",
+      "name": "ing. Ioan Bohancanu"
+    },
+    {
+      "label": "Viceprimar",
+      "name": "Aurelian Bican"
+    },
+    {
+      "label": "Secretar general",
+      "name": "jr. Ionela Vetes"
+    },
+    {
+      "label": "Consilieri PSD",
+      "name": "Dancau Dan"
+    },
+    {
+      "label": "Consilieri UDMR",
+      "name": "Erdelyi Monika"
+    }
+  ],
+  "departments": [
+    {
+      "label": "Secretar general",
+      "name": "Vetes Ionela-Elena"
+    },
+    {
+      "label": "Aparat de specialitate al primarului",
+      "name": "Kiss Laura"
+    },
+    {
+      "label": "Compartiment contabilitate, venituri si urmarire, incasare taxe si impozite",
+      "name": "Sofran Nicolae"
+    },
+    {
+      "label": "Compartiment agricol, evidenta exploatatii agricole",
+      "name": "Pirlageanu Andreea"
+    },
+    {
+      "label": "Compartiment alocatii si servicii sociale",
+      "name": "Talpos Almina"
+    },
+    {
+      "label": "Compartiment administrativ",
+      "name": "Flori Corina"
+    },
+    {
+      "label": "Compartiment tehnic",
+      "name": "Taran Elena"
+    },
+    {
+      "label": "Consilier al primarului",
+      "name": "Lavrenski Slobodan"
+    },
+    {
+      "label": "Referent specialitate",
+      "name": "Giuroescu Sorin-Manuel"
+    }
+  ],
+  "reporters": [
+    {
+      "label": "Secretar general",
+      "name": "Vetes Ionela-Elena"
+    },
+    {
+      "label": "Aparat de specialitate al primarului",
+      "name": "Kiss Laura"
+    },
+    {
+      "label": "Compartiment contabilitate, venituri si urmarire, incasare taxe si impozite",
+      "name": "Sofran Nicolae"
+    },
+    {
+      "label": "Compartiment agricol, evidenta exploatatii agricole",
+      "name": "Pirlageanu Andreea"
+    },
+    {
+      "label": "Compartiment alocatii si servicii sociale",
+      "name": "Talpos Almina"
+    },
+    {
+      "label": "Compartiment administrativ",
+      "name": "Flori Corina"
+    },
+    {
+      "label": "Compartiment tehnic",
+      "name": "Taran Elena"
+    },
+    {
+      "label": "Consilier al primarului",
+      "name": "Lavrenski Slobodan"
+    },
+    {
+      "label": "Referent specialitate",
+      "name": "Giuroescu Sorin-Manuel"
+    }
+  ],
+  "commissions": [
+    "Comisia de activitati si prognoze financiare, economie, buget, impozite si taxe, juridica si de disciplina, administrarea domeniului public si privat, realizarea lucrarilor publice|presedinte Dancau Dan-Dumitru",
+    "Comisia pentru administratia publica locala, servicii publice, relatii cu publicul, gospodarirea localitatii, probleme ale minoritatilor, apararea ordinii publice, respectarea drepturilor si libertatilor cetatenilor, relatii internationale|presedinte Terlai Pavel-Daniel",
+    "Comisia pentru invatamant, activitati stiintifice, activitati social-culturale, sportive si de agrement, munca, tineret, relatii cu cultele, sanatate si familie, protectie sociala si protectia copilului|presedinte Bruder Timea-Terezia",
+    "Comisia de organizare si dezvoltare urbanistica, amenajarea teritoriului si urbanism, protectia mediului inconjurator, agricultura si turism|presedinte Erdelyi Monica"
+  ],
+  "councilors": [
+    "Bican Aurelian",
+    "Bruder Timea",
+    "Ciobanu Liviu",
+    "Berbecaru Alin",
+    "Dancau Dan-Dumitru",
+    "Terlai Daniel",
+    "Erdelyi Monika"
+  ]
+}
